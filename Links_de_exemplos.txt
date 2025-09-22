@@ -1,0 +1,11 @@
+https://leiturasterritorias.com.br/
+
+O Projeto Leituras Territoriais tem como objetivo possibilitar a leitura da realidade local, a partir de diagnósticos e estudos disponíveis para 14 municípios (Barão de Cocais; Belo Vale; Catas Altas; Congonhas; Itabirito; Jeceaba; Mariana; Nova Lima; Ouro Preto; Raposos; Rio Acima; Rio Piracicaba; Santa Bárbara; São Gonçalo do Rio Abaixo) e 1 distrito (Antônio Pereira). Esses territórios estão inseridos nos Corredores Sul e Sudeste.
+
+https://brasiliametropolitana.ipe.df.gov.br/#/distrito-federal/pessoas
+“Brasília Metropolitana” - O ÌPEDF convida gestores públicos e cidadãos em geral para conhecer o essencial do Distrito Federal, com suas 33 Regiões Administrativas, e dos 12 municípios do Estado de Goiás que compõem a AMB: Águas Lindas de Goiás, Alexânia, Cidade Ocidental, Cocalzinho de Goiás, Cristalina, Formosa, Luziânia, Novo Gama, Padre Bernardo, Planaltina, Santo Antônio do Descoberto e Valparaíso de Goiás.
+
+https://www.ipea.gov.br/portal/infere
+O Infere consiste em dois produtos entregues pelo Ipea para a sociedade brasileira. O primeiro – em ordem cronológica – é um Painel dos Investimentos Federais com metodologia desenvolvida no Ipea para distribuir o gasto para Estados e Regiões dos orçamentos Fiscal e da Seguridade Social para os anos de 2001 até 2020. O segundo é um visualizador dos dados (dashboard em Power BI) criado para facilitar a organização dos dados e permitir interação do usuário com representações do mapa do Brasil, gráficos e tabelas.
+
+Link para o painel:https://app.powerbi.com/view?r=eyJrIjoiNTdlN2QxZTYtZTU4ZC00ODc3LTkzYzAtNTFiNzY3Y2ZjNDRiIiwidCI6ImVjMzU5YmExLTYzMGItNGQyYi1iODMzLWM4ZTZkNDhmODA1OSJ9
